@@ -1,0 +1,2 @@
+This is the fourth file.
+It was created on master, when I had a third-file branch.
