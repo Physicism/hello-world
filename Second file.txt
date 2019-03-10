@@ -1,1 +1,5 @@
 This is the second file in the Hello World repository.
+
+Today I will work out, have a smoothie, and learn more about GitHub.
+I will also look at what we need to do in Lund tomorrow, and pack my bags for the week.
+If I have time I will start another Unity tutorial.
